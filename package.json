@@ -1,0 +1,22 @@
+{
+  "name": "issue11527-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^6.1.1",
+    "@angular/core": "^6.1.1",
+    "rxjs": "^6.2.2",
+    "smart-table-ng": "0.0.10",
+    "webpack": "4.9.2"
+  },
+  "devDependencies": {
+    "webpack-command": "^0.4.1"
+  }
+}
