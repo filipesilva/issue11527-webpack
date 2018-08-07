@@ -14,7 +14,7 @@
     "@angular/core": "^6.1.1",
     "rxjs": "^6.2.2",
     "smart-table-ng": "0.0.10",
-    "webpack": "4.9.2"
+    "webpack": "^4.16.5"
   },
   "devDependencies": {
     "webpack-command": "^0.4.1"
